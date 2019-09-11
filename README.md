@@ -1,4 +1,3 @@
-# Intrinsic-Image-Decompositions-paper-list
 # Intrinsic Image Decompositions paper list
 
 A collection of Intrinsic Image Decompositions papers.
@@ -23,6 +22,5 @@ __TOC__
 |     | intrinsic | Intrinsic Images in the Wild  | SIGGRAPH 2014  | [siggraph2014-intrinsic.pdf](https://www.cs.cornell.edu/~sbell/pdf/siggraph2014-intrinsic.pdf) | [seanbell/intrinsic](https://github.com/seanbell/intrinsic) |
 |     | Intrinsic Appearance Flow | Dense Intrinsic Appearance Flow for Human Pose Transfer  | CVPR 2019  | [arxiv:1903.11326](https://arxiv.org/abs/1903.11326) | [ly015/intrinsic_flow](https://github.com/ly015/intrinsic_flow) |
 |     | intrinsics-network | Self-Supervised Intrinsic Image Decomposition | NIPS 2017  | [arxiv:1711.03678](https://arxiv.org/abs/1711.03678) | [JannerM/intrinsics-network](https://github.com/JannerM/intrinsics-network)  |
-                                                           |
 
 
