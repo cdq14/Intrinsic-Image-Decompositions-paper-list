@@ -2,8 +2,6 @@
 
 A collection of Intrinsic Image Decompositions papers.
 
-Papers are ordered in arXiv first version submitting time (if applicable).
-
 Feel free to send a PR or issue.
 
 
